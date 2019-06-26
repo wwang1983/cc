@@ -40,7 +40,7 @@ zzz,yyy,xxx
 6 Fields containing line breaks (CRLF), double quotes, and commas should be enclosed in double-quotes.  For example:
 
 ```csv
- "aaa","b CRLF
+"aaa","b CRLF
 bb","ccc" CRLF
 zzz,yyy,xxx
 ```
